@@ -24,11 +24,10 @@ main .conteudo
 .conteudo2 {
     position: absolute;
     top: 0;
-    justify-content: center;
+    object-fit: cover;
     font-size: 40px;
     line-height: 100vh;
-    left: 200px;
-    max-width: 380px;
+    left: 100px;
+    max-width: 400px;
     color: #ffffff;
-    min-width: auto;
 }
